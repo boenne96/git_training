@@ -1,3 +1,3 @@
 library(DBI)
-library(tidyverse) # Often used in data science
+library(tidyverse) # Local edit: Used for data science
 library(RPostgres)
